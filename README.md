@@ -9,6 +9,10 @@ My plan was to build a Rollup chain using Arbitrum Orbit Chains, which can integ
 3. Downloaded the avail-nitro-node Docker image.
 4. Deployed Rollup contracts.
 
+![Rollup deployment](./images/rollup-deploy.png)
+
 The last step `Spinning up the chain using the orbit-setup-script` was where I got stuck due to errors in the Docker images. Despite this, I’m optimistic about making it work in the future.
+
+![Docker container issue](./images/docker-container-issue.png)
 
 You can find my developer feedback on the Arbitrum Orbit and Avail integration documentation [here](./developer-feedback/README.md).

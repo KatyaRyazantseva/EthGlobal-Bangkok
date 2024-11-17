@@ -9,7 +9,8 @@ I began by opening the link [Deploy Arbitrum Orbit with Avail DA](https://docs.a
 As a developer, I prefer a left-hand sidebar navigation. Without this, I felt lost and hesitant to proceed. While some decoration on the starting page is fine, the sidebar should remain accessible for efficient navigation.
 
 ### Exploring the Docs
-To locate information on connecting Avail DA to rollups, I clicked "Interact with AvailDA" in the "Build on Avail DA!" section. However, this took me to the “Get Started with Interacting on Avail” page, which wasn't relevant to my purpose.
+To locate information on connecting Avail DA to rollups, I clicked "Interact with AvailDA" in the "Build on Avail DA!" section. However, this took me to the “Get Started with Interacting on Avail” page, which wasn't relevant to my purpose. Here is my surfing logic:
+![Navigation](../images/navigation-1.png)
 
 The buttons on this page are visually helpful and should remain the main focus, but the options (SDK, SubXt, GSRPC) weren’t relevant to me.
 I checked the right-hand sidebar menu for rollup information but found only Avail-specific sections.
@@ -48,6 +49,8 @@ This section could be restructured as:
 
 - Using the Explorer (link to Explorer instructions)
 
+![Avail account](../images/avail-account.png)
+
 ### Screenshots
 
 The screenshots in the guide were overly large, requiring scrolling. Use smaller images or pixelated filters to hide sensitive data instead of red markers. The inconsistency between hidden and visible sensitive data across screenshots was also distracting.
@@ -75,6 +78,11 @@ The purpose of checking the next available AppID wasn’t clear. I expected an a
 - Reverse the order of AppIDs (latest first) for better visibility, similar to transaction explorers.
 
 ## Deploying Rollup Contracts
+
+The deployment process was successful, and I was able to complete the required steps without major issues.
+
+![Rollup deploy](../images/rollup-deploy.png)
+
 ### Clarity on Avail Nitro Contracts
 Include a brief explanation of Avail Nitro Contracts and their relevance to the deployment process, especially for newcomers.
 
